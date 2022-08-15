@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.6.0](https://github.com/editorconfig-checker/editorconfig-checker/tree/2.6.0) (2022-07-24)
+
+**Closed issues:**
+
+- Improve binary file check [\#205](https://github.com/editorconfig-checker/editorconfig-checker/issues/205)
+- TAR\_BAD\_ARCHIVE: Unrecognized archive format [\#178](https://github.com/editorconfig-checker/editorconfig-checker/issues/178)
+
 ## [2.5.0](https://github.com/editorconfig-checker/editorconfig-checker/tree/2.5.0) (2022-06-18)
 
 **Closed issues:**
@@ -36,9 +43,9 @@
 
 - Specify line number for "Line too long" error? [\#154](https://github.com/editorconfig-checker/editorconfig-checker/issues/154)
 
-## [2.3.3](https://github.com/editorconfig-checker/editorconfig-checker/tree/2.3.3) (2021-02-02)
-
 ## [2.3.2](https://github.com/editorconfig-checker/editorconfig-checker/tree/2.3.2) (2021-02-02)
+
+## [2.3.3](https://github.com/editorconfig-checker/editorconfig-checker/tree/2.3.3) (2021-02-02)
 
 **Closed issues:**
 
